@@ -2,27 +2,41 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Product Boxes</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <div id="container">
-    <div class="box">
-        <img src="/images/celvin_klein.jpg" alt="Celvin Klein">
-        <p>title</p>
-        <button>Details</button>
+    <header>
+        <h1>Product Boxes</h1>
+    </header>
+    <div id="boxes">
+        <div class="box">
+            <img class="box-image" src="images/celvin_klein.jpg" alt="Celvin Klein">
+            <p>title</p>
+            <button data-id="1" class="button">Details</button>
+        </div>
+        <div class="box">
+            <img class="box-image" src="images/chanel_shoes.jpg" alt="Chanel">
+            <p>title</p>
+            <button data-id="2" class="button">Details</button>
+        </div>
+        <div class="box">
+            <img class="box-image" src="images/rayban.jpg" alt="RayBan">
+            <p>title</p>
+            <button data-id="3" class="button">Details</button>
+        </div>
     </div>
-    <div class="box">
-        <img src="/images/chanel_shoes.jpg" alt="Chanel">
-        <p>title</p>
-        <button>Details</button>
-    </div>
-    <div class="box">
-        <img src="/images/rayban.jpg" alt="RayBan">
-        <p>title</p>
-        <button>Details</button>
+    <div id="overlay">
+        <div id="popup">
+            <p></p>
+            <button class="close-popup">ok</button>
+        </div>
     </div>
 </div>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="js/script.js"></script>
 </body>
 </html>

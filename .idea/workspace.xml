@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db13cf3e-8aa7-4518-8ed0-fb0ae8974abf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/celvin_klein.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/celvin_klein.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chanel_shoes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chanel_shoes.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rayban.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rayban.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619615298658</updated>
-      <workItem from="1619615300967" duration="17882000" />
+      <workItem from="1619615300967" duration="17991000" />
     </task>
     <servers />
   </component>
